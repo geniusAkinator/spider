@@ -1,1 +1,1 @@
-# spider
+scrapy_redis分布式爬虫
